@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/gensart-x/reva-erlyana/assets/165239315/db268cb7-54a9-40db-b237-33426402d41d" height="200px" alt="reva erlyana logo">
 
-RevaErlyana, SoraErlyana next-gen, WhatsApp group management specialist, family of Erlyana's bots. Specially tasked to manage your WhatsApp group. Built with Node.js + Typescript and whatsapp-web.js library.
+RevaErlyana, [SoraErlyana](https://github.com/gensart-x/sora-erlyana) next-gen, WhatsApp group management specialist, family of Erlyana's bots. Specially tasked to manage your WhatsApp group. Built with Node.js + Typescript and whatsapp-web.js library.
 
 ---
 
