@@ -8,8 +8,8 @@ RevaErlyana, [SoraErlyana](https://github.com/gensart-x/sora-erlyana) next-gen, 
 
 ![forthebadge](https://img.shields.io/github/last-commit/gensart-x/reva-erlyana/main?display_timestamp=author&style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fgensart-x%2Freva-erlyana)
 
-> 🚧 Under Development  
-> 🔴 Status : Cannot be used, under development
+> 🚧 On hold, relocating priority to other repository
+> 🔴 Status : Cannot be used, not started yet
 ---
 
 <p align="center">
